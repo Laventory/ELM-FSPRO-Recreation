@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="Event" id="{e4c7598d-304a-442d-9648-ca93f554584b}">
+	<object class="Event" id="{5182b7b6-e43d-497a-9969-7d504e1ad9dd}">
 		<property name="name">
 			<value>extraterrestial</value>
 		</property>

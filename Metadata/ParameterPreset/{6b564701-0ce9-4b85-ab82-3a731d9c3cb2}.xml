@@ -16,7 +16,7 @@
 			<value>1</value>
 		</property>
 		<property name="maximum">
-			<value>34</value>
+			<value>51</value>
 		</property>
 		<property name="isGlobal">
 			<value>true</value>

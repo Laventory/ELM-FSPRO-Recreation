@@ -252,7 +252,7 @@
 			<value>122.39999999999998</value>
 		</property>
 		<relationship name="event">
-			<destination>{229882f7-09bf-46e0-8b76-a146c6483253}</destination>
+			<destination>{e3b01cb0-6cd0-4809-9c34-ccf51214759b}</destination>
 		</relationship>
 	</object>
 	<object class="EventSound" id="{db999ca6-713f-4ebf-bd57-869597e20b8a}">
@@ -266,7 +266,7 @@
 			<value>122.39999999999998</value>
 		</property>
 		<relationship name="event">
-			<destination>{53193136-0748-4ba5-b88d-d955dec6407f}</destination>
+			<destination>{fada23ab-f439-422f-aeb0-9372361fa63c}</destination>
 		</relationship>
 	</object>
 	<object class="EventSound" id="{c85ad081-4584-47e2-9315-207660aaa1a7}">

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{33a2bf5f-f9d4-4a20-915e-d29243e8cfba}">
+		<property name="note" />
 		<property name="name">
-			<value>lap5</value>
+			<value>clown</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -97,6 +98,9 @@
 		</property>
 		<property name="timelockedOffset">
 			<value>0.18200000000001637</value>
+		</property>
+		<property name="volume">
+			<value>-2</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{88f346a2-979a-4824-ba10-869e5af3fa3a}</destination>

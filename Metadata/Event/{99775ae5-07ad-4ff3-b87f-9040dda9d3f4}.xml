@@ -102,6 +102,7 @@
 			<destination>{8f0e6e45-8eb8-4630-9345-556df0104ad0}</destination>
 			<destination>{7a01c0d5-630d-4283-86f2-c9d681e7d60d}</destination>
 			<destination>{e7826fa6-c69a-4a0b-8fa0-d5f5975f8a1c}</destination>
+			<destination>{dbf131a7-74a8-44f0-a755-24288ee929a7}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{83c98f05-e293-404e-b64b-53001a64c5fa}" />
@@ -117,11 +118,8 @@
 	<object class="MixerBusFader" id="{8f0e6e45-8eb8-4630-9345-556df0104ad0}" />
 	<object class="PitchShifterEffect" id="{7a01c0d5-630d-4283-86f2-c9d681e7d60d}">
 		<property name="pitch">
-			<value>1</value>
+			<value>0.899999976</value>
 		</property>
-		<relationship name="modulators">
-			<destination>{571fc5bf-6a13-4720-8244-bbb6fb7d513c}</destination>
-		</relationship>
 	</object>
 	<object class="ProxyEffect" id="{e7826fa6-c69a-4a0b-8fa0-d5f5975f8a1c}">
 		<property name="inputFormat">
@@ -131,6 +129,7 @@
 			<destination>{3f886746-6580-4216-9237-8e68eb3c04bc}</destination>
 		</relationship>
 	</object>
+	<object class="SFXReverbEffect" id="{dbf131a7-74a8-44f0-a755-24288ee929a7}" />
 	<object class="AutomationPoint" id="{b29b1668-47d8-413f-8235-3360d8728704}">
 		<property name="position">
 			<value>1.3</value>
@@ -148,14 +147,6 @@
 		</property>
 		<property name="value">
 			<value>0</value>
-		</property>
-	</object>
-	<object class="RandomizerModulator" id="{571fc5bf-6a13-4720-8244-bbb6fb7d513c}">
-		<property name="nameOfPropertyBeingModulated">
-			<value>pitch</value>
-		</property>
-		<property name="amount">
-			<value>16.5</value>
 		</property>
 	</object>
 </objects>

@@ -199,6 +199,9 @@ lyric14 = "Will I be, the man to screw us all!"</value>
 		<property name="timelockedOffset">
 			<value>0.029143211879784303</value>
 		</property>
+		<property name="volume">
+			<value>-2.5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{9ea12e0a-d78b-4971-ab6c-14625d17ac1d}</destination>
 		</relationship>
@@ -234,6 +237,9 @@ lyric14 = "Will I be, the man to screw us all!"</value>
 		</property>
 		<property name="timelockedOffset">
 			<value>0.008103130464182054</value>
+		</property>
+		<property name="volume">
+			<value>-2.5</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{40b8f842-3005-44e3-a223-56253afe6e7f}</destination>

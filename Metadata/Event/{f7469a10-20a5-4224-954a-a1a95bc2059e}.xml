@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{f7469a10-20a5-4224-954a-a1a95bc2059e}">
 		<property name="name">
-			<value>Memento</value>
+			<value>4A.Memento</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -68,7 +68,7 @@
 			<destination>{a8eb53af-38d8-4e68-a8e6-140af694d1fd}</destination>
 		</relationship>
 		<relationship name="markers">
-			<destination>{2da878e6-6a5a-4baf-bd2d-ba9536b93577}</destination>
+			<destination>{0312cf17-658f-464d-a656-4a437145538f}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{306083f9-0d16-4115-8191-e4daa9463296}">
@@ -90,10 +90,13 @@
 	<object class="MixerBusPanner" id="{79e6f37a-5085-4029-896c-241224a92cb2}" />
 	<object class="SingleSound" id="{a8eb53af-38d8-4e68-a8e6-140af694d1fd}">
 		<property name="length">
-			<value>91.429388430815948</value>
+			<value>91.429758807203157</value>
 		</property>
 		<property name="timelockedOffset">
 			<value>0.029050303558221913</value>
+		</property>
+		<property name="volume">
+			<value>-1</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{8fc69f48-f8f4-4b78-8bee-d9702664eebf}</destination>
@@ -113,12 +116,12 @@
 			<destination>{306083f9-0d16-4115-8191-e4daa9463296}</destination>
 		</relationship>
 	</object>
-	<object class="LoopRegion" id="{2da878e6-6a5a-4baf-bd2d-ba9536b93577}">
+	<object class="LoopRegion" id="{0312cf17-658f-464d-a656-4a437145538f}">
 		<property name="position">
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>91.429388430815891</value>
+			<value>91.429758807203157</value>
 		</property>
 		<property name="name">
 			<value>MM Loop</value>

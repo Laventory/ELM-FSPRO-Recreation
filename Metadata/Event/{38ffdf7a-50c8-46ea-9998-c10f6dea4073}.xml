@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{38ffdf7a-50c8-46ea-9998-c10f6dea4073}">
 		<property name="name">
-			<value>Joyride</value>
+			<value>4C.Joyride</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -96,7 +96,7 @@
 			<value>180.00076127114693</value>
 		</property>
 		<property name="volume">
-			<value>-3</value>
+			<value>-5</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{a3e0a07b-5cb7-44c2-b096-c0e011ce2e0b}</destination>
@@ -121,7 +121,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>180.00076127114693</value>
+			<value>180.0007612711469</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{3ea647ef-4170-4318-ace3-3101a90b1100}</destination>

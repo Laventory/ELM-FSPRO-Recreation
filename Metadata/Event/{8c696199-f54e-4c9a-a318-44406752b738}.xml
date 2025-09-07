@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{8c696199-f54e-4c9a-a318-44406752b738}">
 		<property name="name">
-			<value>Report V2</value>
+			<value>4A.Report V2</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -94,6 +94,9 @@
 		</property>
 		<property name="length">
 			<value>207.37452083333332</value>
+		</property>
+		<property name="volume">
+			<value>-3.5</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{c3a6444b-9862-42b6-8993-484ebadba5d2}</destination>

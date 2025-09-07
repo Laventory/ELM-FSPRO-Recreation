@@ -356,7 +356,7 @@ stupidlyric33 = "Don't want pizzas that taste pasty-y-y."
 			<value>161.50639583333333</value>
 		</property>
 		<property name="volume">
-			<value>2</value>
+			<value>-1</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{abbad112-7492-4324-a684-5ba70b38473c}</destination>
