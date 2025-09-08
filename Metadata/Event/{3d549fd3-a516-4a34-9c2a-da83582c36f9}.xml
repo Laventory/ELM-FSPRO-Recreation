@@ -35,7 +35,7 @@
 			<destination>{38f43ff7-ea76-41d7-8d48-ce4cd2e31f95}</destination>
 		</relationship>
 		<relationship name="parameters">
-			<destination>{c4b89ee9-d914-45cd-95d4-df37a6ce313b}</destination>
+			<destination>{6ade48a5-7a0f-4c18-87c4-eb1e91631552}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{2df1f750-3944-4bd0-8a2e-48740b572b78}</destination>
@@ -48,7 +48,7 @@
 	</object>
 	<object class="MasterTrack" id="{727d3277-5fdc-4fe5-a5e1-f9117afbae72}">
 		<relationship name="modules">
-			<destination>{6d6cefb9-9b98-42e4-9cb2-d87c332e7986}</destination>
+			<destination>{1fd22ea5-f146-4e47-a018-176609c1abe0}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{814e113e-59a0-4f32-a3a6-a1beb8df6e02}</destination>
@@ -77,9 +77,9 @@
 			<value>false</value>
 		</property>
 	</object>
-	<object class="ActionSheet" id="{c4b89ee9-d914-45cd-95d4-df37a6ce313b}">
+	<object class="ActionSheet" id="{6ade48a5-7a0f-4c18-87c4-eb1e91631552}">
 		<relationship name="modules">
-			<destination>{6d6cefb9-9b98-42e4-9cb2-d87c332e7986}</destination>
+			<destination>{1fd22ea5-f146-4e47-a018-176609c1abe0}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{814e113e-59a0-4f32-a3a6-a1beb8df6e02}">
@@ -93,9 +93,9 @@
 			<destination>{308516bf-3bd6-40ab-977e-207f9e55618e}</destination>
 		</relationship>
 	</object>
-	<object class="MultiSound" id="{6d6cefb9-9b98-42e4-9cb2-d87c332e7986}">
+	<object class="MultiSound" id="{1fd22ea5-f146-4e47-a018-176609c1abe0}">
 		<relationship name="sounds">
-			<destination>{a99f1e42-8a4a-4ca1-8fc8-956b9065f860}</destination>
+			<destination>{d45f5b23-0817-48cb-8af3-37b4dc048af0}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{eef190c1-5f80-4fb1-8a1f-7955d371d850}">
@@ -124,7 +124,7 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{ff5fdebc-3fd2-4410-9ea2-aff38893efcc}" />
-	<object class="EventSound" id="{a99f1e42-8a4a-4ca1-8fc8-956b9065f860}">
+	<object class="EventSound" id="{d45f5b23-0817-48cb-8af3-37b4dc048af0}">
 		<relationship name="event">
 			<destination>{fc9ead44-070d-4636-8c8d-f3b32776b99f}</destination>
 		</relationship>

@@ -11,7 +11,6 @@
     concat("sound/", plat, "/music.bank"),
     concat("sound/", plat, "/sfx.bank"), 
     concat("sound/", plat, "/ELMCustom/music.bank"), 
-	concat("sound/", plat, "/ELMCustom/sfx.bank"), 
     concat("sound/", plat, "/EggsLapMod/ELMmusic.bank"), 
     concat("sound/", plat, "/EggsLapMod/ELMsfx.bank")
 ];

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{35154826-0d5c-4e68-acc3-7e1758731a18}">
 		<property name="assetPath">
-			<value>ELMmusic/Lap 4/Peppino/How to Self Destruct.ogg</value>
+			<value>ELMmusic/How to Self Destruct.ogg</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

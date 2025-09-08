@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{09fbf350-6dd1-45b7-aef4-88083944f36c}">
+		<property name="note" />
 		<property name="name">
 			<value>thunder</value>
 		</property>
