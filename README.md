@@ -38,3 +38,4 @@ If you want to customize the music in the mod I have set it up for sideloading a
 # Music Credits
 - Vozaxhi - [Pillar John's Revenge](https://www.youtube.com/watch?v=MSzReOhnxXg)
 - Inceptradom - [Absolute Absurziti V2](https://www.youtube.com/watch?v=8Vqa5lfr8Sk)
+- Green2141 - [Absolute Absurziti - Legacy Edition [WORSE REUPLOAD]](https://www.youtube.com/watch?v=ESp0gOiYRpM) (& _sillicate - [How to Self Destruct](https://www.youtube.com/watch?v=NA5yxiphq74))
