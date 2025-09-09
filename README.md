@@ -31,11 +31,16 @@ If you want to customize the music in the mod I have set it up for sideloading a
     
 ![](https://i.postimg.cc/1tjTXGQk/Bank-array.png)
 
-6. And thus your custom music should work now,  here is my example video which shows [River347's PJR Remix](https://www.youtube.com/watch?v=CUUn6xCTT7U) and [Absolute Absurziti (Cheesy Mix)](https://www.youtube.com/watch?v=GPHvp9Y5aJM). (Click the fat image below)
+6. And thus your custom music should work now. In the event that this guide was pure nonsense to you,  I have also recorded and edited a visual guide of me setting the project up below.  The video also has a demonstration of the banks in action.
    
-[![Click Me!!!](https://i.postimg.cc/GtMfB6yh/ELMFSPRO-CMD.png)](https://youtu.be/4FdvZ3OTCYw)
+[![Click Me!!!](https://i.postimg.cc/GpjP41tq/setupguide2x.png)](https://youtu.be/F71KLrEZzxs)
 
-# Music Credits
+# Music Credits (FSPRO)
 - Vozaxhi - [Pillar John's Revenge](https://www.youtube.com/watch?v=MSzReOhnxXg)
 - Inceptradom - [Absolute Absurziti V2](https://www.youtube.com/watch?v=8Vqa5lfr8Sk)
 - Green2141 - [Absolute Absurziti - Legacy Edition [WORSE REUPLOAD]](https://www.youtube.com/watch?v=ESp0gOiYRpM) (& _sillicate - [How to Self Destruct](https://www.youtube.com/watch?v=NA5yxiphq74))
+
+# Music Credits (Set-Up Guide)
+- River347 - [Pillar John's Revenge (Remix)](https://www.youtube.com/watch?v=CUUn6xCTT7U)
+- Ronach & SeagullBruh - [Spotlight's Thievery](https://www.youtube.com/watch?v=_ddAAz30ats)
+- BilkShaked - [Universe Wide Destruction](https://www.youtube.com/watch?v=Xv7MzDaixP4)
